@@ -50,3 +50,6 @@ $("img:last");
 
 // All elements with an href attribute
 $("[href]");
+
+// Modify all paragraph content on the provided web page
+$("p").text("All Changed");
